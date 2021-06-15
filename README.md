@@ -6,11 +6,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... onetap scripts!
-- 🌱 I’m currently learning ... javascript!
-- 👯 I’m looking to collaborate on ... onetap scripts!
-- 🤔 I’m looking for help with ... onetap!
-- 💬 Ask me about ... onetap!
-- 📫 How to reach me: ... discord!
-- 😄 Pronouns: ... stal/ker
-- ⚡ Fun fact: ... I am stalking @leodeveloper
+- Pay me money and i'll do the work.
