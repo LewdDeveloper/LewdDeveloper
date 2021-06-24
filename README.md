@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - Pay me money and i'll do the work.
 - No, i don't like discord
 - Yes, i love telegram
+
+This World Needs More Open Source Stuff?
